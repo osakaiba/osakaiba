@@ -2,7 +2,7 @@
 <html lang=es>
   <head>
   <meta charset="utf-8">
-    <title>Página Inicial</title>
+  <title>Página Inicial</title>
     
   
   </head>
